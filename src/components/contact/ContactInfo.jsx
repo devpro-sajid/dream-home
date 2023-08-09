@@ -9,23 +9,23 @@ const ContactInfo = () => {
           <FiPhone />
         </div>
         <h1 className="mt-2 text-lg font-semibold">Phone Number</h1>
-        <p>+256 478 832902</p>
-        <p>+256 775 358738</p>
+        <p>+8801868061206</p>
+        <p>+8801612295468</p>
       </div>
       <div className="text-center">
         <div className="icon-box !h-14 !w-14 !bg-primary text-white mx-auto text-2xl">
           <FiMail />
         </div>
         <h1 className="mt-2 text-lg font-semibold">Email Address</h1>
-        <p>martvilla@gmail.com</p>
-        <p>wabwenib66@gmail.com</p>
+        <p>admin@dreamhome.com</p>
+        <p>info@dreamhomepro.com</p>
       </div>
       <div className="text-center">
         <div className="icon-box !h-14 !w-14 !bg-primary text-white mx-auto text-2xl">
           <BiMap />
         </div>
         <h1 className="mt-2 text-lg font-semibold">Office Address</h1>
-        <p>Lumumu Street Plot 3943, Kampala, Uganda</p>
+        <p>New York, USA</p>
         <p>Horizon Street, Middle Avenue, USA</p>
       </div>
     </div>
